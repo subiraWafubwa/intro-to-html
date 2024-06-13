@@ -75,6 +75,6 @@ Semantic elements in HTML are elements that convey meaning and structure to the 
 `<article>`: Represents a self-contained piece of content that could be distributed and reused independently.
 
 > `<article>`
-    > `<h2>`Article Title`</h2>`
-    > `<p>`This is an article.`</p>`
+> `<h2>`Article Title`</h2>`
+> `<p>`This is an article.`</p>`
 > `</article>`
