@@ -26,7 +26,15 @@ HTML tags are the building blocks of HTML, used to define and structure content 
 
 An element refers to a complete structure that typically consists of a start tag, content, and an end tag. Elements are the building blocks of HTML documents, defining the structure and content of web pages.
 
-For example:
+For example: This is a paragraph element.
 
 > `<p>This is a paragraph.</p>`
 
+And this is an image element which is self-closing
+
+> `<img src="image.jpg" alt="An image description">`
+
+## What are the differences between an element and a tag in HTML?
+
+| Elements | Tags |
+|----------|----------|
