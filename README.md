@@ -38,3 +38,4 @@ And this is an image element which is self-closing
 
 | Elements | Tags |
 |----------|----------|
+| Tags are the building blocks of HTML used to create elements. They are enclosed in angle brackets (< >) and typically come in pairs: an opening tag and a closing tag. | Elements consist of both the tags and the content they enclose. An element is a complete structure within an HTML document. |
