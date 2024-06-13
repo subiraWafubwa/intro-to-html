@@ -1,2 +1,3 @@
-# intro-to-html
-First break-out room 6. Introduction to HTML
+# BREAKOUT ROOM 6
+
+## What is HTML?
